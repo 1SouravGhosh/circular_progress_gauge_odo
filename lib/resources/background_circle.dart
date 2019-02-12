@@ -35,7 +35,7 @@ class BackgroundCircle extends StatelessWidget{
           child: Container(
             height: size+1.0,
             width: size+1.0,
-            color: Colors.blueGrey,
+            color: Colors.transparent,
           ),
         ),
         ClipRRect(
